@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638907016 source:c:\users\97253\documents\c-arithmetic-calculator\c-arithmetic-calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
